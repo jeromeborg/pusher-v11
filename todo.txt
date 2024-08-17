@@ -1,8 +1,6 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jeromeborg/pusher-v11.git
-git push -u origin main
-git branch -m develop
-git checkout -b start
+front
+copy code
+highligth js or prism js
+    can gate button top
+
+    back list of 20 last send
